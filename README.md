@@ -16,3 +16,5 @@ The client asks with `LIST`; the server answers `BEGIN`, `C~id:flags,...` chunks
 
 Copy the module into `modules/`, re-run CMake and build. No SQL, no config. The tabs are in the Temucraft interface
 patch (client 1.2.0).
+
+Part of the Temucraft modules for AzerothCore 3.3.5a.
